@@ -16,15 +16,12 @@
 # fruits.pop()-- removes the first element
 
 # Set
-#fruits = {"apple","orange","banana","coconut"}
+# fruits = {"apple","orange","banana","coconut"}
 # indexing doesn't work because we don't know where they are only add and remove the element works.
 
-#Tuples
-fruits = ("apple","orange","banana","coconut","coconut")
+# Tuples
+fruits = ("apple", "orange", "banana", "coconut", "coconut")
 print(fruits.index("coconut"))
 for fruit in fruits:
     print(fruit)
-
-
-
-
+# iv ivh
